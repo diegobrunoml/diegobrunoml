@@ -8,6 +8,10 @@
 
 <img alt = "python" src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
+<img alt = "pytorch" src = "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
+
+<img alt = "pandas" src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+
 <img alt = "django" src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 
 <img alt = "html5" src = "https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
