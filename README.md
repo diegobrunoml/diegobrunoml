@@ -1,8 +1,7 @@
 ## Olá! me chamo Diego Bruno ✌️
 
-<div>
 [![Diego GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=diegobrunoml&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-</div>
+
 ## Tecnologias que estou habituado
 
 <div style = "display: inline-block">
